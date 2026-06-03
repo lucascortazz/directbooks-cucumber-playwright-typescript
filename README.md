@@ -1,4 +1,4 @@
-# DirectBooks Playwright + Cucumber + TypeScript
+# DirectBooks Cucumber + Playwright + TypeScript
 
 End-to-end tests for the DirectBooks public website using Playwright, Cucumber, and TypeScript, running nightly via GitHub Actions.
 
